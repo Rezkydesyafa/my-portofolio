@@ -5,7 +5,7 @@ export const Bio = {
     'Has experience creating and developing APIs and has experience learning programming for 2 years. and have attended training and have a certificate from a dicoding academy',
   github: 'https://github.com/Rezkydesyafa',
   resume:
-    'https://drive.google.com/file/d/1prB-SS115Xoq-WbihzvWTbKP0JmVcwmT/view?usp=share_link',
+    'https://drive.google.com/drive/folders/1kWGyfLqSQQ1INFGC7ekwcvA92f6xIiVC?usp=sharing',
   linkedin: 'https://www.linkedin.com/in/rezkydesyafa/',
   twitter: 'https://twitter.com/rezkydesyafa/',
   insta: 'https://www.instagram.com/rezxlnz/',
@@ -91,11 +91,6 @@ export const skills = [
         name: 'Docker',
         image:
           'https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg',
-      },
-      {
-        name: 'Netlify',
-        image:
-          'https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png',
       },
       {
         name: 'VS Code',
